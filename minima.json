@@ -1,7 +1,37 @@
 [
+         {
+    "name": "Beige",
+    "author": "Zang Liven",
+    "url": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Beige.png",
+    "thumb": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Thumbs/BeigeThumb.png"
+  },
+  {
+    "name": "Splash",
+    "author": "Mary Brennon",
+    "url": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Splash.png",
+    "thumb": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Thumbs/SplashThumb.png"
+  },
+  {
+    "name": "Zebra",
+    "author": "Peter Steiner",
+    "url": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Zebra.png",
+    "thumb": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Thumbs/ZebraThumb.png"
+  },
+  {
+    "name": "Honey",
+    "author": "Lindsay Moe",
+    "url": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Honey.png",
+    "thumb": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Thumbs/HoneyThumb.png"
+  },
+  {
+    "name": "Dark Clouds",
+    "author": "Anh Nguyen",
+    "url": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Dark%20Clouds.png",
+    "thumb": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Thumbs/Dark%20CloudsThumb.png"
+  },
        {
     "name": "Giraffe",
-    "author": "Refcharlie",
+    "author": "Redcharlie",
     "url": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Giraffe.png",
     "thumb": "https://raw.githubusercontent.com/T2n-fCF/KfWLlZ.Ld3v/main/Thumbs/GiraffeThumb.png"
   },
